@@ -6,7 +6,7 @@ public class Eylul25 {
 		
            int a=3;  
            int b=4;
-           double c=Math.sqrt((a^2)+(b^2));
+           double c=Math.sqrt((a*a)+(b*b));
            System.out.println("Kenarlarý " + a + " ve " + b + " olan üçgenin hipotenüsü "+ c);
 
 	}
